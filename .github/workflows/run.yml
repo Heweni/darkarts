@@ -23,7 +23,7 @@ jobs:
           git config --local user.name "GitHub Action"
           git fetch origin main
           git checkout main
-          git add repo.json
+          git add myrepo.json
           git diff --cached --quiet && exit 0
           git commit -m "Update repository"
           git push
