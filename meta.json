@@ -1,0 +1,82 @@
+[
+  {
+    "repo": "https://github.com/Sevii77/aetherment",
+    "plugins": ["Aetherment"]
+  },
+  {
+    "repo": "https://github.com/NightmareXIV/Lifestream",
+    "plugins": ["Lifestream"]
+  },
+  {
+    "repo": "https://github.com/NightmareXIV/AntiAfkKick",
+    "plugins": ["AntiAfkKick"]
+  },
+  {
+    "repo": "https://github.com/PunishXIV/Saucy",
+    "plugins": ["Saucy"]
+  },
+  {
+    "repo": "https://github.com/PunishXIV/PandorasBox",
+    "plugins": ["PandorasBox"]
+  },
+  {
+    "repo": "https://github.com/PunishXIV/Artisan",
+    "plugins": ["Artisan"]
+  },
+  {
+    "repo": "https://github.com/PunishXIV/YesAlready",
+    "plugins": ["Yes Already"]
+  },
+  {
+    "repo": "https://github.com/PunishXIV/AutoHook",
+    "plugins": ["AutoHook"]
+  },
+  {
+    "repo": "https://github.com/PunishXIV/AutoRetainer",
+    "plugins": ["AutoRetainer"]
+  },
+  {
+    "repo": "https://github.com/Etheirys/Brio",
+    "plugins": ["Brio"]
+  },
+  {
+    "repo": "https://github.com/xivdev/Penumbra",
+    "plugins": ["Penumbra"]
+  },
+  {
+    "repo": "https://github.com/Ottermandias/Glamourer",
+    "plugins": ["Glamourer"]
+  },
+  {
+    "repo": "https://github.com/Penumbra-Sync/client",
+    "plugins": ["Mare Synchronos"]
+  },
+  {
+    "repo": "https://github.com/Aether-Tools/CustomizePlus",
+    "plugins": ["Customize+"]
+  },
+  {
+    "repo": "https://github.com/Caraxi/SimpleHeels",
+    "plugins": ["Simple Heels"]
+  },
+  {
+    "repo": "https://heliosphere.app/",
+    "plugins": ["heliosphere-plugin"]
+  },
+  {
+    "repo": "https://github.com/kawaii/Moodles",
+    "plugins": ["Moodles"]
+  },
+  {
+    "repo": "https://github.com/Aireil/FFLogsViewer",
+    "plugins": ["FF Logs Viewer"]
+  },
+  {
+    "repo": "https://github.com/KrisanThyme/Illusio-Vitae",
+    "plugins": ["IllusioVitae"]
+  },
+  {
+    "repo": "https://github.com/dodingdaga/DalamudPlugins",
+    "plugins": ["Puppet Master"]
+  }
+]
