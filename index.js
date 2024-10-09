@@ -59,7 +59,7 @@ async function main() {
     }
   }
 
-  fs.writeFileSync("./repo.json", JSON.stringify(final, null, 2));
+  fs.writeFileSync("./myrepo.json", JSON.stringify(final, null, 2));
   console.log(`Wrote ${final.length} plugins to myrepo.json.`);
 }
 
